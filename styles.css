@@ -1,0 +1,15 @@
+.box-model-properties {
+	border: 5px solid blue;
+  margin: 20px;
+  padding: 10px;
+}
+
+.center-title {
+  color: red;
+  margin: 0 auto;
+  width: 500px;
+}
+.navigation-links li {
+  display: inline; 
+  margin: 10px;
+}
